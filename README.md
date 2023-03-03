@@ -1,0 +1,2 @@
+# python_problem_set_jp
+練習python基本觀念用的問題集(Python の基本概念を実践するための問題セット)

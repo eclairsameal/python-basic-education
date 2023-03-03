@@ -1,2 +1,2 @@
-# Python-basic-education
+# Python Basic Education
 
